@@ -112,10 +112,10 @@ The system architecture comprises:
 ## 🧮 Database Connection
 
 ```python
-server = 'adro-data-sonic-ondemand.sql.azuresynapse.net'
-database = 'Datasonic_Workflow'
-username = 'sqladminuser'
-password = 'root@123'
+server = 
+database = 
+username = 
+password = 
 ```
 
 Ensure that the above credentials are secured in production via environment variables or secret management systems.
